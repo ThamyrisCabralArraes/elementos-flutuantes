@@ -3,6 +3,7 @@
     border: 1px solid gray;
     width: 150px;
     height: 150px;
+    margin: 10px;
 }
 .conteudo3 {
     background: red;
@@ -10,5 +11,14 @@
     width: 150px;
     height: 150px;
     float: right;
+    margin: 10px;
 }
+.clear {
+    clear: both;
+}
+#principal {
+    border: 5px red solid;
+    
+}
+
 /*  */
